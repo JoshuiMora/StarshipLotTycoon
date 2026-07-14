@@ -49,7 +49,21 @@ Repeat.
 
 ---
 
+Cinnematic Focus System
+
+-The game is primarily played from a top down view/management perspective.  Interacting with important people, buildings, and events smoothly transitions the camera into an immersive close-up view, allowing players to experiennce key business moments without leavingn the manangement simulation
+
+---
+
 # Design Philosophy
+
+NON-NEGOTIABLE PRINCIPLES
+-The player always approves ship purchases.
+-Every ship should tell a story.
+-The dealership should visibly evolve over time.
+-The galaxy exists independently of the player.
+-The first hour should be calm, personal, and memorable.
+-New systems must deepend decisions, not replace them.
 
 Automation should remove labor.
 
