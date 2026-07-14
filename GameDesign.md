@@ -49,21 +49,24 @@ Repeat.
 
 ---
 
-Cinnematic Focus System
+# Cinematic Focus System
 
--The game is primarily played from a top down view/management perspective.  Interacting with important people, buildings, and events smoothly transitions the camera into an immersive close-up view, allowing players to experiennce key business moments without leavingn the manangement simulation
+The game is primarily played from a top-down management perspective.
+
+Interacting with important people, ships, buildings, and events smoothly transitions the camera into an immersive close-up view, allowing players to experience key business moments without leaving the management simulation.
 
 ---
 
 # Design Philosophy
 
 NON-NEGOTIABLE PRINCIPLES
--The player always approves ship purchases.
--Every ship should tell a story.
--The dealership should visibly evolve over time.
--The galaxy exists independently of the player.
--The first hour should be calm, personal, and memorable.
--New systems must deepend decisions, not replace them.
+
+- The player always approves ship purchases.
+- Every ship should tell a story.
+- The dealership should visibly evolve over time.
+- The galaxy exists independently of the player.
+- The first hour should be calm, personal, and memorable.
+- New systems must deepen decisions, not replace them.
 
 Automation should remove labor.
 
@@ -110,9 +113,9 @@ The tutorial teaches gameplay naturally through one complete transaction.
 
 Player learns:
 
-- Order replacement parts
 - Browse marketplace
 - Purchase first ship
+- Order replacement parts based on known listing issues
 - Receive parts delivery
 - Receive ship delivery
 - Inspect ship
@@ -122,6 +125,47 @@ Player learns:
 - Complete first customer negotiation
 
 After the first successful sale the player is turned loose.
+
+## First Deal Scenario
+
+The first ship should feel like a forgotten gem rather than generic starter inventory.
+
+The player finds an old discontinued Hospitaller ship listed cheaply by a seller who never got around to fixing it.
+
+The ship is:
+
+- Small
+- Fast
+- Discontinued
+- Collectible
+- Non-running due to a known failed component
+- Undervalued because the seller wants it gone
+
+The listing reveals enough information for the player to make a confident early purchase and order the likely replacement part before the ship arrives.
+
+Once the ship reaches the hangar, inspection confirms the failed component.
+
+The first hands-on repair is a simple cinematic component replacement:
+
+1. View the old part in close-up.
+2. Click highlighted connectors, clamps, or fasteners to disconnect it.
+3. Perform a simple removal action to pull the part out.
+4. Install the new part by reversing the steps.
+5. Return to management view.
+6. Start the ship.
+
+The repaired ship should deliver the first emotional payoff:
+
+"It's alive."
+
+The first customer recognizes the ship immediately and is excited to see one restored.
+
+The customer is buying the ship either way, so the first negotiation teaches upside rather than punishment:
+
+- If the player negotiates well, the customer agrees to the asking price.
+- If the player negotiates poorly, the customer still buys it but offers less.
+
+The goal is for the player to feel smart, lucky, and capable without being exposed to harsh failure in the first transaction.
 
 ---
 
